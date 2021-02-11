@@ -1,2 +1,4 @@
 import numpy
-numpy.array(1)
+
+a=numpy.array(1)
+s=numpy.array(3)
